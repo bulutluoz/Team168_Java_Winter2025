@@ -2,7 +2,7 @@ package day04_forLoop;
 
 import java.util.Scanner;
 
-public class C05_TersMetniKaydetme {
+public class C06_TersMetniKaydetme {
     public static void main(String[] args) {
 
         // Kullanicidan bir String isteyin ve String’i tersine cevirip kaydedin.
