@@ -6,9 +6,9 @@ public class C01_Toyota {
     // Sakarya da sadece Corolla modeli uretiliyor
 
 
-    static String marka = "Toyota";
-    static String model = "Corolla";
-    static String uretimYeri = "Sakarya/Turkiye";
+        static String marka = "Toyota";
+        static String model = "Corolla";
+        static String uretimYeri = "Sakarya/Turkiye";
     String renk = "Renk secilmedi";
     String motor = "Motor secilmedi";
     String yakit = "Yakit secilmedi";
